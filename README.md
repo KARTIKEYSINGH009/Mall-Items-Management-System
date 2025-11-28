@@ -24,14 +24,14 @@ Git & GitHub	    Version control and project hosting
 
 *Code Structure:*
 
-MallItemsManagement
+**Mall Items Management**
 main.py          # Application source code
 README.md        # Project documentation
 statement.md     # Problem and scope details
 requirements.txt # Environment setup
 /report.pdf      # Final project report
 
-Example Usage:
+*Example Usage:*
 1 --> View Items
 2 --> Add to Cart
 3 --> View Cart
@@ -40,29 +40,30 @@ Example Usage:
 6 --> Quit
 
 
-Sample Output:
+*Sample Output:*
 
 Available Items:
 - iPhone 15 : Rs.150000
 - iPhone 14 : Rs.130000
-Added 'iPhone 14' to cart.
+Added 'iPhone 14' to cart
 Total is Rs.130000
 
-Future Improvements:
+*Future Improvements:*
 
-1.Add graphical interface using Tkinter or Flask
+1. Add graphical interface using Tkinter or Flask
 
-2.Integrate database support for persistent storage
+2. Integrate database support for persistent storage
 
-3.Introduce quantity tracking and category-wise search
+3. Introduce quantity tracking and category-wise search
 
-4.Generate detailed billing receipts
+4. Generate detailed billing receipts
 
 
-Author:
+*Author:*
 Kartikey Singh
 Register No: 25BSA10020
 VIT Bhopal University
 Course: Introduction to Problem Solving and Programming
+
 
 
