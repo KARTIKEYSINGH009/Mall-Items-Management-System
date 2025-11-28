@@ -1,4 +1,4 @@
-Mall Items Management System
+**Mall Items Management System**
 
 Mall Items Management System is a simple Python application that models how a retail or mall environment manages its product listings and shopping cart. It provides a menu-based console interface that allows users to browse available items, add them to a virtual cart, view their selections, and check the total bill amount.
 
@@ -64,3 +64,4 @@ Kartikey Singh
 Register No: 25BSA10020
 VIT Bhopal University
 Course: Introduction to Problem Solving and Programming
+
