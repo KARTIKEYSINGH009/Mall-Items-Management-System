@@ -1,5 +1,5 @@
 class Items:
-    def __init__(self):
+    def init(self):
         self.items_list = {}  
 
     def add_items(self, name, price):
@@ -16,8 +16,8 @@ class Items:
 
 
 class Cart(Items):
-    def __init__(self):
-        super().__init__()
+    def init(self):
+        super().init()
         self.cart = {}  
 
     def add_item(self, name):
@@ -50,7 +50,7 @@ class Cart(Items):
         print(f"Total is Rs.{total:.2f}")
 
 
-def run_shopping_mall():
+def shopping_mall():
     mall = Cart()
     mall.add_items("Iphone 15", 150000)
     mall.add_items("Iphone 14", 130000)
@@ -92,4 +92,5 @@ def run_shopping_mall():
 
 
 if __name__ == "__main__":
-    run_shopping_mall()
+    shopping_mall()
+
