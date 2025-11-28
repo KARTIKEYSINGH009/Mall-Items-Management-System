@@ -4,27 +4,27 @@ Mall Items Management System is a simple Python application that models how a re
 
 This project was developed as part of the Introduction to Problem Solving and Programming course at VIT Bhopal University.
 
-Features:
+*Features:*
 
-1.View available items with prices
+1. View available items with prices
 
-2.Add or remove products from the cart
+2. Add or remove products from the cart
 
-3.Display cart details and calculate total amount
+3. Display cart details and calculate total amount
 
-4.Easy-to-use menu-driven interface
+4. Easy-to-use menu-driven interface
 
-5.Built using clean, object-oriented Python design
+5. Built using clean, object-oriented Python design
 
-Technologies:
+*Technologies:*
 Tool            	Purpose
 Python 3.8+     	Core programming language
-VS Code	Code        Used for development
+VS Code	Code      Used for development
 Git & GitHub	    Version control and project hosting
 
-Code Structure:
+*Code Structure:*
 
-MallItemsManagement/
+MallItemsManagement
 main.py          # Application source code
 README.md        # Project documentation
 statement.md     # Problem and scope details
@@ -64,4 +64,5 @@ Kartikey Singh
 Register No: 25BSA10020
 VIT Bhopal University
 Course: Introduction to Problem Solving and Programming
+
 
